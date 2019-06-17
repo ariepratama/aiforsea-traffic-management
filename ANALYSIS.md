@@ -1,6 +1,7 @@
 This is a compiled version for my analysis in traffic management airforsea challenge
 
 # EDA
+Overviewing the demand distribution of all dataset
 
 ![eda1.png](analysis_res/img/eda1.png)
 
