@@ -12,6 +12,12 @@ Quickly looking at the given data for each hours
 
 Here we could find that lowest hour is 19 and from my working experience lowest internet traffic should be found at about 3 a.m, I assume this time is in GMT +0, and will continue to assume that these region should be at GMT +8 timezone.
 
+## Deriving Day of Week
+Plotting the demand on each day and for each hour (+8 h)
+![eda12.png](analysis_res/img/eda12.png)
+
+we can see that day 5,6; 12,13; 19,20; and so on has different pick up rate, that is dark area tends to rise at > 10:00. Therefore I could guess that this is the weekend effect.
+
 ## Peeking Cities Median Demand
 
 ![eda3.png](analysis_res/img/eda3.png)
